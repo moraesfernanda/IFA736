@@ -1,4 +1,4 @@
-baseURL = "https://metabiolab.github.io/IFA736/"
+baseURL = "http://localhost/demosite/"
 title = "IFA736"
 theme = "hugo-geekdoc"
 
